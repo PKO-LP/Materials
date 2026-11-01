@@ -1,1 +1,1 @@
-CREATE DATABASE tk_shop_practice;
+CREATE DATABASE final_up_shared;
